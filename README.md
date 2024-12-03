@@ -6,13 +6,13 @@ CODE :
 
 Classification
 
-- preprocess.py: extract audio and text features
+- preprocess: extract audio and text features
 
-- audio_gru.py: train audio network
+- audio_gru.ipynb: train audio network
   
-- text_bilstm.py: train text network
+- text_bilstm..ipynb: train text network
   
-- fuse_net_whole.py: train fuse network
+- fusion.py: train fuse network
 
 Feature Extraction:
 
